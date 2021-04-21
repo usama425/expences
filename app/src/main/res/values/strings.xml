@@ -14,7 +14,7 @@
     <string name="username_hint">Masum Ahmed</string>
     <string name="confirm_password">Confirm password</string>
     <string name="already_account_message">Already have an account? </string>
-
+    <string name="dont_have_account">Do not Have an Account? </string>
 
 
 </resources>

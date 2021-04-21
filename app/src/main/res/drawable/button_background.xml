@@ -4,7 +4,7 @@
 
 <!--    Sorry for spell mistake-->
 
-    <solid android:color="@color/bacgroundk"/>
+    <solid android:color="@color/background"/>
 
     <corners android:radius="10dp"/>
 
